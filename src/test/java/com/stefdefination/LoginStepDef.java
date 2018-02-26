@@ -32,3 +32,11 @@ public class LoginStepDef {
 	public void admin_receives_a_confirmation() throws Throwable {
 	  
 	}}
+    
+    
+
+
+
+
+
+
